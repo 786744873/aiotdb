@@ -1,4 +1,4 @@
-<img width="300px" src="./assets/aiot.jpg">
+<img width="300px" src="/docs/assets/aiot.jpg">
 
 # AIoTDB分布式物联网时序数据库
 
