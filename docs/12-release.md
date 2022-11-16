@@ -11,6 +11,18 @@
 
 
 
+### 0.1.8 [released]
+
+- SQL 支持 `near` 查询
+
+
+
+### 0.1.7 [released]
+
+- 支持 TCP 方式写入
+
+
+
 ### 0.1.6 [released]
 
 - 支持 Insert Or Replace 操作
